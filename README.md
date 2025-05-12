@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 
 Installation information
 =======
@@ -27,3 +28,7 @@ Additional Resources:
 ==========
 Community Documentation: https://docs.neoforged.net/  
 NeoForged Discord: https://discord.neoforged.net/
+=======
+# BetterVillage
+an attempt for a better village of mc based on MDK-Forge-1.20.1-ModDevGradle.git
+>>>>>>> 5d87957b118e3e0b64d0cbc9cc9292d0543b281c
