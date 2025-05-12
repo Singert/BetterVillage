@@ -1,5 +1,17 @@
 {
-  "itemGroup.examplemod": "Example Mod Tab",
-  "block.examplemod.example_block": "Example Block",
-  "item.examplemod.example_item": "Example Item"
+  "creative_tab.bettervillage.bettervillage_tab": "Better Village",
+
+  "item.bettervillage.villager_badge": "Villager Badge",
+
+  "block.bettervillage.village_monument": "Village Monument",
+
+  "text.bettervillage.config.log_dirt_block": "Log Dirt Block",
+  "text.bettervillage.config.magic_number": "Magic Number",
+  "text.bettervillage.config.magic_number_introduction": "Magic Number Intro",
+  "text.bettervillage.config.item_list": "Item List for Logging",
+
+  "text.bettervillage.init": "BetterVillage Initialization Complete",
+  "text.bettervillage.server_start": "Server Starting...",
+  "text.bettervillage.client_init": "Client Setup Complete",
+  "text.bettervillage.username": "Minecraft Username: %s"
 }
